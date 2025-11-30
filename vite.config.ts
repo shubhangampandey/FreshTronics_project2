@@ -10,7 +10,7 @@ export default defineConfig({
     
   },
   publicDir: "./static",
-  base: "/",
+  base: "./",
   css: {
     postcss: {
       plugins: [tailwind()],
