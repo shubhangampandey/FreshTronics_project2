@@ -1,19 +1,20 @@
-import { Navbar } from "@/sections/navbar";
-import { Hero } from "@/sections/hero";
-import { MobileHero } from "@/sections/mobileHero";
-import { TrustedBrands } from "@/sections/trustedBrands";
-import { BuildingFuture } from "@/sections/buildingFuture";
-import { IndustriesSection } from "@/sections/industriesSection";
-import { ServicesSection } from "@/sections/servicesSection";
-import { WhyIcanio } from "@/sections/whyIcanio";
-import { StatsSection } from "@/sections/statsSection";
-import { ProjectsSection } from "@/sections/projectsSection";
-import { TeamSection } from "@/sections/teamSection";
-import { BuildSomething } from "@/sections/buildSomething";
-import { TestimonialsSection } from "@/sections/testimonialsSection";
-import { PartnersCarousel } from "@/sections/partnersCarousel";
-import { Footer } from "@/sections/footer";
-import { ContactModal } from "@/components/contactModal";
+import {Navbar} from "@/sections/Navbar";
+import {Hero} from "@/sections/Hero";
+import {MobileHero} from "@/sections/MobileHero";
+import {TrustedBrands} from "@/sections/TrustedBrands";
+import {BuildingFuture} from "@/sections/BuildingFuture";
+import {IndustriesSection} from "@/sections/IndustriesSection";
+import {ServicesSection} from "@/sections/ServicesSection";
+import {WhyIcanio} from "@/sections/WhyIcanio";
+import {StatsSection} from "@/sections/StatsSection";
+import {ProjectsSection} from "@/sections/ProjectsSection";
+import {TeamSection} from "@/sections/TeamSection";
+import {BuildSomething} from "@/sections/BuildSomething";
+import {TestimonialsSection} from "@/sections/TestimonialsSection";
+import {PartnersCarousel} from "@/sections/PartnersCarousel";
+import {Footer} from "@/sections/Footer";
+import {ContactModal} from "@/components/ContactModal";
+
 
 export const App = () => {
   return (
